@@ -7,7 +7,7 @@
 
   * 학생 프로젝트 소개 : https://youtu.be/T0p_PcuWiic
   
-  * 학생 과제 소개 : https://youtu.be/xRoeoGgbCvk
+  * 학생 과제 결과물 소개 : https://youtu.be/xRoeoGgbCvk
 
 * Day 04 : NUGU developers로 NUGU Play 제작
 
