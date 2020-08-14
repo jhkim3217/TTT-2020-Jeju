@@ -1,12 +1,12 @@
 # TTT-2020-Jeju
-* 1 일차 : Introduction to Artificial Intelligence
+* Day 01 : Introduction to Artificial Intelligence
 
-* 2 일차 : Deep Learning & Hands-On-Labs
+* Day 02 : Deep Learning & Hands-On-Labs
 
-* 3 일차 : Edge AI 및 IoT Cloud Service 강의 소개
+* Day 03 : Edge AI 및 IoT Cloud Service 강의 소개
 
   * 학생 프로젝트 소개 : https://youtu.be/T0p_PcuWiic
 
-* 4 일차 : NUGU developers로 NUGU Play 제작
+* Day 04 : NUGU developers로 NUGU Play 제작
 
-* 5 일차 : NUGU Play 제작 (Advanced)
+* Day 05 : NUGU Play 제작 (Advanced)
