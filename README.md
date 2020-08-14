@@ -3,7 +3,7 @@
 
 * 2 일차 : Deep Learning & Hands-On-Labs
 
- - 학생 프로젝트 데모 : https://youtu.be/T0p_PcuWiic
+  * 학생 프로젝트 데모 : https://youtu.be/T0p_PcuWiic
 
 * 3 일차 : Edge AI 및 IoT Cloud Service 강의 소개
 
