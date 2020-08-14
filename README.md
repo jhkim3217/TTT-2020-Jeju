@@ -1,7 +1,7 @@
 # TTT-2020-Jeju
 • 1 일차 : Introduction to Artificial Intelligence
 
-• 2 일차 : Deep Learning & Hadns-On_Labs
+• 2 일차 : Deep Learning & Hadns-On-Labs
 
 • 3 일차 : Edgi AI 및 IoT Cloud Service 강의 소개
 
